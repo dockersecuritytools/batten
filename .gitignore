@@ -1,0 +1,4 @@
+bin/
+.gopath
+.vagrant
+*.sw*

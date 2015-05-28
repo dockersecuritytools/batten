@@ -1,0 +1,81 @@
+{
+	"ImportPath": "github.com/jandre/batten",
+	"GoVersion": "go1.4",
+	"Deps": [
+		{
+			"ImportPath": "github.com/Sirupsen/logrus",
+			"Comment": "v0.6.5-2-geb84da5",
+			"Rev": "eb84da520d0bfecda7a9288107ec991b4ebcedb4"
+		},
+		{
+			"ImportPath": "github.com/alecthomas/units",
+			"Rev": "6b4e7dc5e3143b85ea77909c72caf89416fc2915"
+		},
+		{
+			"ImportPath": "github.com/docker/docker/pkg/archive",
+			"Comment": "v1.4.1-1548-g95dcb27",
+			"Rev": "95dcb2748442fc1f59e8c2e010679e0aea3cef1c"
+		},
+		{
+			"ImportPath": "github.com/docker/docker/pkg/fileutils",
+			"Comment": "v1.4.1-1548-g95dcb27",
+			"Rev": "95dcb2748442fc1f59e8c2e010679e0aea3cef1c"
+		},
+		{
+			"ImportPath": "github.com/docker/docker/pkg/ioutils",
+			"Comment": "v1.4.1-1548-g95dcb27",
+			"Rev": "95dcb2748442fc1f59e8c2e010679e0aea3cef1c"
+		},
+		{
+			"ImportPath": "github.com/docker/docker/pkg/pools",
+			"Comment": "v1.4.1-1548-g95dcb27",
+			"Rev": "95dcb2748442fc1f59e8c2e010679e0aea3cef1c"
+		},
+		{
+			"ImportPath": "github.com/docker/docker/pkg/promise",
+			"Comment": "v1.4.1-1548-g95dcb27",
+			"Rev": "95dcb2748442fc1f59e8c2e010679e0aea3cef1c"
+		},
+		{
+			"ImportPath": "github.com/docker/docker/pkg/system",
+			"Comment": "v1.4.1-1548-g95dcb27",
+			"Rev": "95dcb2748442fc1f59e8c2e010679e0aea3cef1c"
+		},
+		{
+			"ImportPath": "github.com/docker/docker/pkg/units",
+			"Comment": "v1.4.1-1548-g95dcb27",
+			"Rev": "95dcb2748442fc1f59e8c2e010679e0aea3cef1c"
+		},
+		{
+			"ImportPath": "github.com/docker/docker/vendor/src/code.google.com/p/go/src/pkg/archive/tar",
+			"Comment": "v1.4.1-1548-g95dcb27",
+			"Rev": "95dcb2748442fc1f59e8c2e010679e0aea3cef1c"
+		},
+		{
+			"ImportPath": "github.com/fsouza/go-dockerclient",
+			"Rev": "1e60afa8d58b91a0eca0a732927c8ecba696493f"
+		},
+		{
+			"ImportPath": "github.com/hashicorp/go-version",
+			"Rev": "bb92dddfa9792e738a631f04ada52858a139bcf7"
+		},
+		{
+			"ImportPath": "github.com/jandre/procfs",
+			"Comment": "0.1.0-1-g22a5a46",
+			"Rev": "22a5a464aa2c1c63858bd9916daff5c1f5907a7c"
+		},
+		{
+			"ImportPath": "github.com/mgutz/ansi",
+			"Rev": "22ddafb24adc4786c83841aa3021349818c898e4"
+		},
+		{
+			"ImportPath": "github.com/olekukonko/tablewriter",
+			"Rev": "1805332a9a6612da6603ccfdd99a036afb89cec6"
+		},
+		{
+			"ImportPath": "gopkg.in/alecthomas/kingpin.v1",
+			"Comment": "v1.3.6",
+			"Rev": "55a69a226d28a43b913720f5d765706d49c8fa9e"
+		}
+	]
+}
