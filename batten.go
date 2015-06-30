@@ -3,8 +3,8 @@ package main
 import (
 	"os"
 
-	"github.com/jandre/batten/batten"
-	"github.com/jandre/batten/cli"
+	"github.com/dockersecuritytools/batten/batten"
+	"github.com/dockersecuritytools/batten/cli"
 	"gopkg.in/alecthomas/kingpin.v1"
 )
 
