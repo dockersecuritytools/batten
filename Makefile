@@ -5,7 +5,7 @@ WEBSITE="http://dockersecurity.org"
 VERSION=$(shell cat $(NAME).go | grep "Version =" | sed 's/Version\ \=//' | sed 's/"//g' | tr -d '[[:space:]]')
 CWD=$(shell pwd)
 
-GITHUB_USER=jandre
+GITHUB_USER=dockersecuritytools
 CCOS=linux
 CCARCH=386 amd64
 CCOUTPUT="pkg/{{.OS}}-{{.Arch}}/$(NAME)"

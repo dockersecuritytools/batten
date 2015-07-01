@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"os"
 
-	"github.com/jandre/batten/batten"
+	"github.com/dockersecuritytools/batten/batten"
 	"github.com/mgutz/ansi"
 	"github.com/olekukonko/tablewriter"
 )
