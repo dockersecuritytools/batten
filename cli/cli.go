@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"os"
 
-	"github.com/dockersecuritytools/batten/batten"
+	"../batten"
 	"github.com/mgutz/ansi"
 	"github.com/olekukonko/tablewriter"
 )
