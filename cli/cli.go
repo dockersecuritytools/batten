@@ -3,8 +3,7 @@ package cli
 import (
 	"fmt"
 	"os"
-
-	"../batten"
+	"github.com/dockersecuritytools/batten/batten"
 	"github.com/mgutz/ansi"
 	"github.com/olekukonko/tablewriter"
 )
